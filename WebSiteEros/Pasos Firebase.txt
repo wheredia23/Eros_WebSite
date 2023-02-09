@@ -1,0 +1,31 @@
+=============================================================================
+Firebase Example Hosting
+https://www.youtube.com/watch?v=lp2_Pq3kOfY
+=============================================================================
+    > firebase login
+=============================================================================
+    > firebase init
+=============================================================================
+
+    - Are you ready to proceed? Yes
+    (*) Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys
+
+    ? What do you want to use as your public directory? public
+    ? Configure as a single-page app (rewrite all urls to /index.html)? No
+    ? Set up automatic builds and deploys with GitHub? No
+    ? File public/404.html already exists. Overwrite? No
+    i  Skipping write of public/404.html
+    ? File public/index.html already exists. Overwrite? No
+
+=============================================================================
+    > firebase deploy
+=============================================================================
+    > https://eros-vnzla1.web.app/index.html
+=============================================================================
+
+2002 - 2003 1 año Anibal Rojas
+2003 - 2004	2 año Anibal Rojas
+2004 - 2005	3 año Rodo
+
+2005 - 2006	4 año Rodo
+2006 - 2007	5 año Rodo 1 Lapso
